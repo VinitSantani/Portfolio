@@ -1,32 +1,10 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hi there!
 
+I am Vinit Santani. I am a detail-focused individual with knowledge in data warehousing, process validation and business needs analysis. I am able to understand customer requirements and translate into actionable project plans. I am also dedicated and hard-working with passion for Big Data and data visualizing tools. 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+I am actively seeking full-time work opportunities throughout the United States. I am interested in roles of a Data Analyst, Data Engineer, or a Data Scientist. Please reach out to me with any relevant openings in the job market and/or referrals. Also, please connect me with someone you know is hiring. I would highly appreciate that.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Having my own professional website was a always a dream which has now come true with some amazing design templates by HTML5 UP. You can view my entire professional profile on my website and reach out to me via my socials and contact information.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you,
+Vinit Santani.
